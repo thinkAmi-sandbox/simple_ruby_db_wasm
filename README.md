@@ -9,3 +9,5 @@
 
 
 ## Related Blog (Written in Japanese)
+
+- [Ruby製の自作RDBMSをruby.wasmにてWasm化し、Wasmtimeで動かしてみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2024/12/29/220013)
