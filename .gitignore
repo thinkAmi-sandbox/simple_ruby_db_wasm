@@ -1,0 +1,5 @@
+.idea
+build
+rubies
+vendor
+*.wasm

@@ -1,0 +1,33 @@
+GIT
+  remote: https://github.com/thinkAmi-sandbox/simple_ruby_db
+  revision: 69a669b622549975ef719c131467f1f99c9eb2a2
+  branch: main
+  specs:
+    simple_ruby_db (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ruby_wasm (2.7.0)
+    ruby_wasm (2.7.0-aarch64-linux)
+    ruby_wasm (2.7.0-aarch64-linux-musl)
+    ruby_wasm (2.7.0-arm64-darwin)
+    ruby_wasm (2.7.0-x86_64-darwin)
+    ruby_wasm (2.7.0-x86_64-linux)
+    ruby_wasm (2.7.0-x86_64-linux-musl)
+
+PLATFORMS
+  aarch64-linux
+  aarch64-linux-musl
+  arm64-darwin
+  ruby
+  x86_64-darwin
+  x86_64-linux
+  x86_64-linux-musl
+
+DEPENDENCIES
+  ruby_wasm
+  simple_ruby_db!
+
+BUNDLED WITH
+   2.5.22
